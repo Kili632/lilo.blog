@@ -34,12 +34,14 @@ In der Schweiz findet die Übertragung von Betrieben in der Regel innerhalb der 
 
 Ein warmer Mittag im Berner Oberland: Die Sonne hat die Wiesen vollständig erwärmt. Andrea Bohny und Tobias Küng setzen ihre Arbeit fort, entschlossen, ihre Betriebe zu erhalten und die Herausforderungen des modernen Bauerndaseins zu meistern.
 
-#### Kastentext: Bäuerliches Erbrecht
-
+```
 Das Bundesgesetz über das bäuerliche Bodenrecht (BGBB) hat das Ziel, das bäuerliche Grundeigentum zu fördern und Familienbetriebe zu erhalten. Um eine Zersplitterung des Hofes zu vermeiden, haben Nachkommen, die den Hof weiterführen wollen, ein bevorzugtes Erbrecht. Der übernehmende Erbe muss den nicht übernehmenden Erben ihren jeweiligen Pflichtteil auszahlen; diese Auszahlung kann über längere Zeit gestreckt werden. Den meisten Bauern wird empfohlen, eine frühzeitige und sorgfältige Nachfolgeplanung mit Hilfe von Beratern zu erstellen, um Konflikte und finanzielle Probleme zu vermeiden.
+```
 
-#### Kastentext: Vermittler
-
+```
 Einen Betrieb zu verkaufen oder abzukaufen, ist äusserst kompliziert. Oftmals kennen sich die Verkäufer und Käufer schon vorher, von Familien, Freunden oder sonstigen Bekannten. Ausser mit Inseraten in Bauernzeitungen auf den Betrieb aufmerksam zu machen, was nicht grosse Wirkung hat, gibt es sonst fast keine Mittel dafür. Deshalb gibt es spezialisierte Vermittlungsstellen wie den Schweizer Bauernverband (SBV), welcher Beratungsdienste, Informationsveranstaltungen und Workshops zur Hofübergabe zur Verfügung stellt. Andere Stellen wie Agrarland Schweiz oder die Landwirtschaftliche Kreditgenossenschaft (LKG) unterstützen die Landwirte finanziell und bieten massgeschneiderte Finanzlösungen an.
+```
+
+
 
 <!--EndFragment-->
