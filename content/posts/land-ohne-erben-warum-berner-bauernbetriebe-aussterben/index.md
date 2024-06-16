@@ -4,7 +4,7 @@ date = "2024-06-16"
 draft = false
 pinned = true
 tags = ["Bauernbetrieb", "Reportage", "Interviews", "Übernahme"]
-image = ""
+image = "https://www.bauernzeitung.ch/fileadmin/_processed_/6/0/csm_b4d02b6d0c330b87d560acb2de05e52557ac8d59_05c79e0607.jpg"
 description = "Eine Reportage über das Aussterben der Bauernbetriebe in der Schweiz, inklusive zwei Interviews mit Landwirtschaftlichen Personen."
 footnotes = "https://www.bauernzeitung.ch/artikel/organisationen-firmen/die-hafl-bekommt-ihr-erstes-institut-359916"
 +++
