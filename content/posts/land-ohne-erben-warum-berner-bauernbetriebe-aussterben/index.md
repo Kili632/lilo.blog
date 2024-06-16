@@ -4,9 +4,13 @@ date = "2024-06-16"
 draft = false
 pinned = true
 +++
-
-
 <!--StartFragment-->
+
+{{<lead>}}
+
+Täglich schliessen drei Bauernbetriebe in der Schweiz - Reportage über zwei Landwirtschaft Betreibende
+
+{{</lead>}}
 
 Es ist ein kühler Morgen im Berner Oberland, als die ersten Sonnenstrahlen die nebelverhangenen Wiesen von Därstetten erhellen. Tobias Küng, ein erfahrener Landwirt und wissenschaftlicher Mitarbeiter an der Berner Fachhochschule (BFH), beginnt seinen Tag auf seinem traditionellen Familienbetrieb. Küng hat vor allem Kühe, aber auch Schweine, und betreibt Ackerbau, die das Rückgrat seines Betriebs bilden. Im Sommer grasen seine Rinder auf einer weitläufigen Alp, die sich majestätisch über die Hügel von Därstetten bis hinten zum Stockhorn erstreckt.
 
