@@ -3,6 +3,8 @@ title = "Land ohne Erben - Warum Berner Bauernbetriebe aussterben"
 date = "2024-06-16"
 draft = false
 pinned = true
+tags = ["Bauernbetrieb", "Reportage", "Interviews", "Übernahme"]
+description = "Eine Reportage über das Aussterben der Bauernbetriebe in der Schweiz, inklusive zwei Interviews mit Landwirtschaftlichen Personen."
 +++
 <!--StartFragment-->
 
