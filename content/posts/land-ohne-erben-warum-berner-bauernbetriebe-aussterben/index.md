@@ -4,6 +4,7 @@ date = "2024-06-16"
 draft = false
 pinned = true
 tags = ["Bauernbetrieb", "Reportage", "Interviews", "Übernahme"]
+image = "https://www.bauernzeitung.ch/fileadmin/_processed_/6/0/csm_b4d02b6d0c330b87d560acb2de05e52557ac8d59_60ea0584d3.jpg"
 description = "Eine Reportage über das Aussterben der Bauernbetriebe in der Schweiz, inklusive zwei Interviews mit Landwirtschaftlichen Personen."
 +++
 <!--StartFragment-->
