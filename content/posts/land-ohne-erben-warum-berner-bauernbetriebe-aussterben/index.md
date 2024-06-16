@@ -26,7 +26,19 @@ Laut einer Studie des Bundesamtes für Statistik sind in den letzten zwanzig Jah
 
 Jede Bauernfamilie steht eines Tages vor der Frage, wie sie den Betrieb an die nächste Generation übergeben soll. Da die Baby-Boomer-Generation in den Ruhestand geht, müssen sich viele Bauernfamilien in der Schweiz Gedanken über diese Übergabe machen. Laut einer Studie von Agroscope aus dem Jahr 2020 sind mehr als 50 % der Landwirte 50 Jahre alt oder älter, und laut einer Studie des Bundesamtes für Statistik im Jahr 2019 sind sogar mehr als 40 % 55 Jahre alt oder älter. Die Übertragung von Betrieben ist ein komplexer und anspruchsvoller Prozess, der sich über mehrere Jahre erstrecken kann. Küng erklärt, dass er sich zwischen 2015 und 2017 dazu entschlossen hat, den Hof seiner Eltern zu übernehmen, der ihm aber erst seit Januar 2021 offiziell gehört.
 
-Der Prozess einer Übernahme beschränkt sich nicht nur auf die Übertragung von materiellen Gütern, sondern beinhaltet auch Fragen über die Verantwortung, die Kontrolle und das Wissen. Verschiedene Faktoren beeinflussen diesen Vorgang, wie zum Beispiel die Grösse, Art des Betriebs und die Anzahl der Kinder in der Familie. Wir haben Küng gefragt, was getan werden muss, bevor mit dem eigenen Betrieb begonnen werden kann. Auf der einen Seite ist eine landwirtschaftliche Ausbildung erforderlich, sei es eine Lehre als Landwirt*in oder ein Studium der Agrarwissenschaften an der ETH oder einer anderen Hochschule. Auf der anderen Seite muss ein Hof gefunden werden. Aufgrund des Bundesgesetzes über das bäuerliche Bodenrecht ist es jedoch einfacher für Personen, deren Eltern bereits einen Betrieb besitzen, diesen zu übernehmen, im Vergleich zu Menschen ohne eine solche Möglichkeit. Daher erfolgen trotz zunehmender ausserfamiliärer Übergaben deutlich mehr Übernahmen innerhalb der Familie. Nachdem diese Punkte geklärt sind, stellt sich die Frage, ob der Hof finanziell leistbar ist. Es ist wichtig, mit den Banken zu sprechen, um zu prüfen, ob und wie die Finanzierung des Hofs möglich ist, einschliesslich der Klärung eventueller bestehender Schulden auf dem Hof. Sobald dies geklärt ist, muss ein Preis vereinbart werden. Küng betont auch, dass im Falle von Geschwistern zuerst mit diesen gesprochen werden sollte, um ihre Pläne zu erfahren. Falls sie kein Interesse an der Hofübernahme haben, sollten sie über den Kaufpreis informiert werden, um ein faires Verfahren sicherzustellen. Danach müssen alle zuständigen Behörden darüber informiert werden, wer der neue Verantwortliche für den Hof ist.
+Der Prozess einer Übernahme beschränkt sich nicht nur auf die Übertragung von materiellen Gütern, sondern beinhaltet auch Fragen über die Verantwortung, die Kontrolle und das Wissen. Verschiedene Faktoren beeinflussen diesen Vorgang, wie zum Beispiel die Grösse, Art des Betriebs und die Anzahl der Kinder in der Familie. Wir haben Küng gefragt, was getan werden muss, bevor mit dem eigenen Betrieb begonnen werden kann. Auf der einen Seite ist eine landwirtschaftliche Ausbildung erforderlich, sei es eine Lehre als Landwirt*in oder ein Studium der Agrarwissenschaften an der ETH oder einer anderen Hochschule. Auf der anderen Seite muss ein Hof gefunden werden. 
+
+```
+Einen Betrieb zu verkaufen oder abzukaufen, ist äusserst kompliziert. Oftmals kennen sich die Verkäufer und
+Käufer schon vorher, von Familien, Freunden oder sonstigen Bekannten. Ausser mit Inseraten in Bauernzeitungen
+auf den Betrieb aufmerksam zu machen, was nicht grosse Wirkung hat, gibt es sonst fast keine Mittel dafür.
+Deshalb gibt es spezialisierte Vermittlungsstellen wie den Schweizer Bauernverband (SBV), welcher
+Beratungsdienste, Informationsveranstaltungen und Workshops zur Hofübergabe zur Verfügung stellt. Andere
+Stellen wie Agrarland Schweiz oder die Landwirtschaftliche Kreditgenossenschaft (LKG) unterstützen die Landwirte
+finanziell und bieten massgeschneiderte Finanzlösungen an.
+```
+
+Aufgrund des Bundesgesetzes über das bäuerliche Bodenrecht ist es jedoch einfacher für Personen, deren Eltern bereits einen Betrieb besitzen, diesen zu übernehmen, im Vergleich zu Menschen ohne eine solche Möglichkeit. Daher erfolgen trotz zunehmender ausserfamiliärer Übergaben deutlich mehr Übernahmen innerhalb der Familie. Nachdem diese Punkte geklärt sind, stellt sich die Frage, ob der Hof finanziell leistbar ist. Es ist wichtig, mit den Banken zu sprechen, um zu prüfen, ob und wie die Finanzierung des Hofs möglich ist, einschliesslich der Klärung eventueller bestehender Schulden auf dem Hof. Sobald dies geklärt ist, muss ein Preis vereinbart werden. Küng betont auch, dass im Falle von Geschwistern zuerst mit diesen gesprochen werden sollte, um ihre Pläne zu erfahren. Falls sie kein Interesse an der Hofübernahme haben, sollten sie über den Kaufpreis informiert werden, um ein faires Verfahren sicherzustellen. Danach müssen alle zuständigen Behörden darüber informiert werden, wer der neue Verantwortliche für den Hof ist.
 
 Bohny hingegen sagt, dass es wichtig ist, nicht naiv zu sein, und dass es nicht so einfach ist, einen Hof zu übernehmen. Sie erwähnt, dass sie Glück hatte, bereits gute Grundkenntnisse für das Büro und die Buchhaltung zu haben, aber dass die administrative Arbeit keinesfalls unterschätzt werden darf.
 
@@ -34,13 +46,7 @@ In der Schweiz findet die Übertragung von Betrieben in der Regel innerhalb der 
 
 Ein warmer Mittag im Berner Oberland: Die Sonne hat die Wiesen vollständig erwärmt. Andrea Bohny und Tobias Küng setzen ihre Arbeit fort, entschlossen, ihre Betriebe zu erhalten und die Herausforderungen des modernen Bauerndaseins zu meistern.
 
-```
 Das Bundesgesetz über das bäuerliche Bodenrecht (BGBB) hat das Ziel, das bäuerliche Grundeigentum zu fördern und Familienbetriebe zu erhalten. Um eine Zersplitterung des Hofes zu vermeiden, haben Nachkommen, die den Hof weiterführen wollen, ein bevorzugtes Erbrecht. Der übernehmende Erbe muss den nicht übernehmenden Erben ihren jeweiligen Pflichtteil auszahlen; diese Auszahlung kann über längere Zeit gestreckt werden. Den meisten Bauern wird empfohlen, eine frühzeitige und sorgfältige Nachfolgeplanung mit Hilfe von Beratern zu erstellen, um Konflikte und finanzielle Probleme zu vermeiden.
-```
-
-```
-Einen Betrieb zu verkaufen oder abzukaufen, ist äusserst kompliziert. Oftmals kennen sich die Verkäufer und Käufer schon vorher, von Familien, Freunden oder sonstigen Bekannten. Ausser mit Inseraten in Bauernzeitungen auf den Betrieb aufmerksam zu machen, was nicht grosse Wirkung hat, gibt es sonst fast keine Mittel dafür. Deshalb gibt es spezialisierte Vermittlungsstellen wie den Schweizer Bauernverband (SBV), welcher Beratungsdienste, Informationsveranstaltungen und Workshops zur Hofübergabe zur Verfügung stellt. Andere Stellen wie Agrarland Schweiz oder die Landwirtschaftliche Kreditgenossenschaft (LKG) unterstützen die Landwirte finanziell und bieten massgeschneiderte Finanzlösungen an.
-```
 
 
 
