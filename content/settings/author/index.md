@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
+name = "Kilian Frei Eilidh Janssens Jan Brechbühler"
 image = "/img/default-author.jpg"
 url = "/about/"
 +++
