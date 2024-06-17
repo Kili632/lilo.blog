@@ -16,6 +16,8 @@ Täglich schliessen drei Bauernbetriebe in der Schweiz - Reportage über zwei La
 
 {{</lead>}}
 
+### Tobias Küng
+
 Es ist ein kühler Morgen im Berner Oberland, als die ersten Sonnenstrahlen die nebelverhangenen Wiesen von Därstetten erhellen. Tobias Küng, ein erfahrener Landwirt und wissenschaftlicher Mitarbeiter an der Berner Fachhochschule (BFH), beginnt seinen Tag auf seinem traditionellen Familienbetrieb. Küng hat vor allem Kühe, aber auch Schweine, und betreibt Ackerbau, die das Rückgrat seines Betriebs bilden. Im Sommer grasen seine Rinder auf einer weitläufigen Alp, die sich majestätisch über die Hügel von Därstetten bis hinten zum Stockhorn erstreckt.
 
 Die Anzahl der Bauernbetriebe nimmt in der Schweiz ab, insbesondere kleine bis mittelgrosse Betriebe. Andrea Bohny und Tobias Küng haben beide im Jahr 2021 jeweils einen Bauernbetrieb übernommen. An der Berner Fachhochschule HAFL, Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften, wo sie beide tätig sind, haben wir separate Interviews mit ihnen geführt, um ihre Perspektiven als Landwirte zu erfahren.
@@ -30,6 +32,8 @@ Küng, der gerade seine 22 Rinder auf die Alp bringt, begutachtet die wunderbare
 
 Nach ihrem ersten Master in Agrarwissenschaften an der ETH studiert Andrea Bohny jetzt für den Master Kreislaufinnovation und Nachhaltigkeit (CIS) an der HAFL. Neben dem Master und dem Betrieb arbeitet sie auch noch 60 % an der HAFL als Assistentin für nachhaltige Landwirtschaft. Als wir sie fragten, wie sie diese drei Sachen alle unter einen Hut bringt, meinte sie nur: „Ich habe flexible Stunden an der HAFL“ und „auf dem Hof tätig zu sein, ist auch ein Ausgleich für mich“. 16 km von ihrem Bio-Betrieb entfernt befindet sich der Betrieb ihres Vaters, mit dem sie sich ebenfalls befasst. Die beiden Betriebe dürfen offiziell jedoch nicht als Betriebsgemeinschaft bezeichnet werden, da sie die gesetzliche Voraussetzung, dass die Betriebe innerhalb einer maximalen Distanz von 15 km voneinander liegen müssen, nicht erfüllen. Ihr Vater ist jedoch noch nicht bereit, seinen Bauernbetrieb aufzugeben, deshalb musste sie einen anderen Weg finden, um an ihren zu gelangen. Doch glücklicherweise benötigten die Nachbarn der Eltern noch eine passende Nachfolgerin für ihren Bauernbetrieb, und somit erhielt Bohny im Jahr 2021 ihren eigenen Bauernbetrieb.
 
+### Problem
+
 Laut einer Studie des Bundesamtes für Statistik sind in den letzten zwanzig Jahren über ein Drittel der Bauernbetriebe verschwunden.
 
 ![Rückgang der Bauernbetriebe im der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-insgesamt.png "Grafik vom Bundesamt für Statistik veröffentlicht am 14.05.2024")
@@ -38,7 +42,9 @@ Hauptsächlich schliessen Betriebe in der Grösse von einer bis rund 20 Hektaren
 
 ![Die Verteilung der Bauernbetriebe im der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-prozent.png "Grafik vom Bundesamt für Statistik veröffentlich am 14.05.2024")
 
-Für viele Landwirte im Raum Bern und auch der gesamten Schweiz wird es immer schwieriger, nur durch den Bauernbetrieb genug zu verdienen. Die Gründe sind vielfältig: zunehmende Arbeit, zu hohe Qualitätserwartungen, schlechter Boden durch den Klimawandel, die zunehmende Automatisierung der Landwirtschaft und wirtschaftlicher Druck. Die HAFL dient Küng und Bohny als finanzielle Absicherung im Falle eines schlechten Erntejahres. Küng erwähnte dazu, dass, falls er Vollzeit an der HAFL arbeiten würde, würde er viel mehr verdienen.
+Für viele Landwirte im Raum Bern und auch der gesamten Schweiz wird es immer schwieriger, nur durch den Bauernbetrieb genug zu verdienen. Die Gründe sind vielfältig: zunehmende Arbeit, zu hohe Qualitätserwartungen, schlechter Boden durch den Klimawandel, die zunehmende Automatisierung der Landwirtschaft und wirtschaftlicher Druck. Die HAFL dient Küng und Bohny als finanzielle Absicherung im Falle eines schlechten Erntejahres. Küng erwähnte dazu, dass, falls er Vollzeit an der HAFL arbeiten würde, würde er viel mehr verdienen. 
+
+### Betriebsübergabe
 
 Jede Bauernfamilie steht eines Tages vor der Frage, wie sie den Betrieb an die nächste Generation übergeben soll. Da die Baby-Boomer-Generation in den Ruhestand geht, müssen sich viele Bauernfamilien in der Schweiz Gedanken über diese Übergabe machen. Laut einer Studie von Agroscope aus dem Jahr 2020 sind mehr als 50 % der Landwirte 50 Jahre alt oder älter, und laut einer Studie des Bundesamtes für Statistik im Jahr 2019 sind sogar mehr als 40 % 55 Jahre alt oder älter. Die Übertragung von Betrieben ist ein komplexer und anspruchsvoller Prozess, der sich über mehrere Jahre erstrecken kann. Küng erklärt, dass er sich zwischen 2015 und 2017 dazu entschlossen hat, den Hof seiner Eltern zu übernehmen, der ihm aber erst seit Januar 2021 offiziell gehört.
 
@@ -68,7 +74,9 @@ meisten Bauern wird empfohlen, eine frühzeitige und sorgfältige Nachfolgeplanu
 Hilfe von Beratern zu erstellen, um Konflikte und finanzielle Probleme zu vermeiden.
 ```
 
-Bohny hingegen sagt, dass es wichtig ist, nicht naiv zu sein, und dass es nicht so einfach ist, einen Hof zu übernehmen. Sie erwähnt, dass sie Glück hatte, bereits gute Grundkenntnisse für das Büro und die Buchhaltung zu haben, aber dass die administrative Arbeit keinesfalls unterschätzt werden darf.
+Bohny hingegen sagt, dass es wichtig ist, nicht naiv zu sein, und dass es nicht so einfach ist, einen Hof zu übernehmen. Sie erwähnt, dass sie Glück hatte, bereits gute Grundkenntnisse für das Büro und die Buchhaltung zu haben, aber dass die administrative Arbeit keinesfalls unterschätzt werden darf. 
+
+### Meinungsverschiedenheit
 
 In der Schweiz findet die Übertragung von Betrieben in der Regel innerhalb der Familie statt, obwohl die ausserfamiliären Übertragungen zunehmen. Oft arbeiten die Eltern nach der Übergabe weiter auf dem Hof, wie im Fall von Küng, dessen Eltern pensioniert sind, aber immer noch auf dem Hof arbeiten. Die Art und Weise, wie der Prozess der Hofnachfolge abläuft, beeinflusst die Zukunft des Betriebs und legt die Grundlage für die Organisation des Zusammenlebens und der Zusammenarbeit nach der Übergabe. Bei Diskussionen über die Zukunft des Betriebs überwiegen wirtschaftliche und technische Erwägungen, während die Verbundenheit mit dem Hof rationale Entscheidungen verhindern kann. Manchmal wollen die Kinder von Landwirten den Familienbetrieb nicht übernehmen, was berücksichtigt werden muss, da es wichtig ist, alternative Pläne zu entwickeln, um sicherzustellen, dass der Betrieb auch in der Zukunft erfolgreich fortgeführt werden kann, unabhängig von der Entscheidung der Kinder. Bohny erzählt, dass sie Leute kennt, für die es schon als Kind klar war, dass sie den Hof ihrer Eltern übernehmen wollten, und andere, die den Hof ihrer Eltern nicht übernommen haben. Ihrer Meinung nach liegt die Ursache dafür darin, dass es heute immer schwieriger wird, einen Hof zu haben, der genügend Einkommen bringt, was die jungen Leute demotiviert. Sie würden lieber weniger arbeiten und mehr verdienen als mehr arbeiten und weniger verdienen. Als wir ihr erzählten, dass laut dem Bundesamt für Statistik jeden Tag drei Bauernhöfe verschwinden, antwortete sie nur mit:
 
@@ -79,6 +87,8 @@ In der Schweiz findet die Übertragung von Betrieben in der Regel innerhalb der 
 
 , da der Preisdruck vor allem bei konventionellen Bauernhöfen enorm sei und die jungen Leute in einer anderen Branche arbeiten und mehr verdienen könnten. Auf die Frage, ob sie sozialen Druck fühle, den Hof ihres Vaters zu übernehmen, antwortete Bohny, dass sie keinen spürt. Ihr Vater hat ihr immer die Wahl gelassen und ihr versichert, dass es andere gebe, die den Hof übernehmen könnten, falls sie dies nicht tun würde. Sie ist der Meinung, dass die Kommunikation mit ihrem Vater in dieser Hinsicht einfach ist. Heute ziehen es viele junge Menschen vor, den Hof ihrer Eltern nicht zu übernehmen, weil sie an einem anderen Ort bessere Möglichkeiten mit einem höheren Einkommen finden. Dies ist problematisch und führt zur Schliessung von Betrieben. Als Küng die Grafiken des Verschwindens der Bauernbetriebe vom Bundesamt für Statistik sah, erklärte er, dass es die mittleren Betriebe sind, die schliessen, weil sie nicht rentabel genug sind. Seiner Meinung nach handelt es sich bei den kleinen Betrieben oft um "Freizeit"-Betriebe, bei denen die Betreiber nicht auf das landwirtschaftliche Einkommen angewiesen sind. Er fügte hinzu, dass, während die Zahl der mittleren Betriebe sinkt, die Zahl der grossen Betriebe steigt, was das Ergebnis von Fusionen ist, wie die, die er mit seinen Nachbarn in einem Jahr vorhat.
 
-Ein warmer Mittag im Berner Oberland: Die Sonne hat die Wiesen vollständig erwärmt. Andrea Bohny und Tobias Küng setzen ihre Arbeit fort, entschlossen, ihre Betriebe zu erhalten und die Herausforderungen des modernen Bauerndaseins zu meistern.
+### Ein warmer Mittag im Berner Oberland:
+
+Die Sonne hat die Wiesen vollständig erwärmt. Andrea Bohny und Tobias Küng setzen ihre Arbeit fort, entschlossen, ihre Betriebe zu erhalten und die Herausforderungen des modernen Bauerndaseins zu meistern.
 
 <!--EndFragment-->
