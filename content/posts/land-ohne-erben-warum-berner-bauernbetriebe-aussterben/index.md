@@ -67,7 +67,7 @@ Bohny hingegen sagt, dass es wichtig ist, nicht naiv zu sein, und dass es nicht 
 In der Schweiz findet die Übertragung von Betrieben in der Regel innerhalb der Familie statt, obwohl die ausserfamiliären Übertragungen zunehmen. Oft arbeiten die Eltern nach der Übergabe weiter auf dem Hof, wie im Fall von Küng, dessen Eltern pensioniert sind, aber immer noch auf dem Hof arbeiten. Die Art und Weise, wie der Prozess der Hofnachfolge abläuft, beeinflusst die Zukunft des Betriebs und legt die Grundlage für die Organisation des Zusammenlebens und der Zusammenarbeit nach der Übergabe. Bei Diskussionen über die Zukunft des Betriebs überwiegen wirtschaftliche und technische Erwägungen, während die Verbundenheit mit dem Hof rationale Entscheidungen verhindern kann. Manchmal wollen die Kinder von Landwirten den Familienbetrieb nicht übernehmen, was berücksichtigt werden muss, da es wichtig ist, alternative Pläne zu entwickeln, um sicherzustellen, dass der Betrieb auch in der Zukunft erfolgreich fortgeführt werden kann, unabhängig von der Entscheidung der Kinder. Bohny erzählt, dass sie Leute kennt, für die es schon als Kind klar war, dass sie den Hof ihrer Eltern übernehmen wollten, und andere, die den Hof ihrer Eltern nicht übernommen haben. Ihrer Meinung nach liegt die Ursache dafür darin, dass es heute immer schwieriger wird, einen Hof zu haben, der genügend Einkommen bringt, was die jungen Leute demotiviert. Sie würden lieber weniger arbeiten und mehr verdienen als mehr arbeiten und weniger verdienen. Als wir ihr erzählten, dass laut dem Bundesamt für Statistik jeden Tag drei Bauernhöfe verschwinden, antwortete sie nur mit:
 
 > \
->  „Horror“
+>  „Horror“ 
 >
 > *Andrea Bohny*
 
