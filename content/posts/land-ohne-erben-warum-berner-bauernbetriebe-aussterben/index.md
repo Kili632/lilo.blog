@@ -24,6 +24,8 @@ Die Anzahl der Bauernbetriebe nimmt in der Schweiz ab, insbesondere kleine bis m
 
 ![Hauptgebäude der Berner Fachhochschule HAFL in Zollikofen](bfh.jpg "Ort der zwei Interviews")
 
+### Andrea Bohny
+
 Eine kurze Fahrt durch die malerische Hügellandschaft führt nach Uetendorf, wo Andrea Bohny, Assistentin für nachhaltige Landwirtschaft an der BFH, ihren Bio-Betrieb leitet. Bohny, die ihren Hof durch eine ausserfamiliäre Übergabe übernommen hat, widmet sich ausschliesslich dem Ackerbau. Ihr Engagement für nachhaltige Landwirtschaft spiegelt sich in jeder einzelnen der jungen Pflanzen wider, die sie mit Sorgfalt und Hingabe pflegt. Auch Bohny steht vor den Herausforderungen, die das moderne Bauerndasein mit sich bringt.
 
 ![Andrea Bohnys Bauernbetrieb in Uetendorf](bauernhof_bohny.jpg "Andrea Bohnys Bauernbetrieb")
