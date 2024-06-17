@@ -6,7 +6,7 @@ pinned = true
 tags = ["Bauernbetrieb", "Reportage"]
 image = "bauernhof_bohny.jpg"
 description = "Eine Reportage über das Aussterben der Bauernbetriebe in der Schweiz, inklusive zwei Interviews mit Landwirtschaftlichen Personen."
-footnotes = "Quelle Foto Bauernbetrieb Bohny: Andrea Bohny selbst\n\nQuelle Grafik: Bundesamt für Statistik"
+footnotes = "Quelle Foto Bauernbetrieb Bohny: Andrea Bohny selbst\n\nQuelle Grafik eins: Bundesamt für Statistik\n\nQuelle Grafik zwei: Bundesamt für Statistik"
 +++
 <!--StartFragment-->
 
@@ -28,11 +28,15 @@ Küng, der gerade seine 22 Rinder auf die Alp bringt, begutachtet die wunderbare
 
 Nach ihrem ersten Master in Agrarwissenschaften an der ETH studiert Andrea Bohny jetzt für den Master Kreislaufinnovation und Nachhaltigkeit (CIS) an der HAFL. Neben dem Master und dem Betrieb arbeitet sie auch noch 60 % an der HAFL als Assistentin für nachhaltige Landwirtschaft. Als wir sie fragten, wie sie diese drei Sachen alle unter einen Hut bringt, meinte sie nur: „Ich habe flexible Stunden an der HAFL“ und „auf dem Hof tätig zu sein, ist auch ein Ausgleich für mich“. 16 km von ihrem Bio-Betrieb entfernt befindet sich der Betrieb ihres Vaters, mit dem sie sich ebenfalls befasst. Die beiden Betriebe dürfen offiziell jedoch nicht als Betriebsgemeinschaft bezeichnet werden, da sie die gesetzliche Voraussetzung, dass die Betriebe innerhalb einer maximalen Distanz von 15 km voneinander liegen müssen, nicht erfüllen. Ihr Vater ist jedoch noch nicht bereit, seinen Bauernbetrieb aufzugeben, deshalb musste sie einen anderen Weg finden, um an ihren zu gelangen. Doch glücklicherweise benötigten die Nachbarn der Eltern noch eine passende Nachfolgerin für ihren Bauernbetrieb, und somit erhielt Bohny im Jahr 2021 ihren eigenen Bauernbetrieb.
 
-Laut einer Studie des Bundesamtes für Statistik sind in den letzten zwanzig Jahren über ein Drittel der Bauernbetriebe verschwunden. 
+Laut einer Studie des Bundesamtes für Statistik sind in den letzten zwanzig Jahren über ein Drittel der Bauernbetriebe verschwunden.
 
-![Die Verteilung der Bauernbetriebe im Raum Schweiz von 1996 bis 2023](grafik_bauernbetrieb.png "Grafik vom Bundesamt für Statistik veröffentlich am 14.05.2024")
+![Rückgang der Bauernbetriebe im der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-insgesamt.png "Grafik vom Bundesamt für Statistik veröffentlicht am 14.05.2024")
 
-Hauptsächlich schliessen Betriebe in der Grösse von einer bis rund 20 Hektaren landwirtschaftlicher Nutzfläche, während es von Betrieben über 30 Hektaren sogar mehr gibt. Einige Betriebe fusionieren zusammen, andere werden von den grösseren aufgekauft, und leider schliessen auch einige komplett. Für viele Landwirte im Raum Bern und auch der gesamten Schweiz wird es immer schwieriger, nur durch den Bauernbetrieb genug zu verdienen. Die Gründe sind vielfältig: zunehmende Arbeit, zu hohe Qualitätserwartungen, schlechter Boden durch den Klimawandel, die zunehmende Automatisierung der Landwirtschaft und wirtschaftlicher Druck. Die HAFL dient Küng und Bohny als finanzielle Absicherung im Falle eines schlechten Erntejahres. Küng erwähnte dazu, dass, falls er Vollzeit an der HAFL arbeiten würde, würde er viel mehr verdienen.
+Hauptsächlich schliessen Betriebe in der Grösse von einer bis rund 20 Hektaren landwirtschaftlicher Nutzfläche, während es von Betrieben über 30 Hektaren sogar mehr gibt. Einige Betriebe fusionieren zusammen, andere werden von den grösseren aufgekauft, und leider schliessen auch einige komplett.
+
+![Die Verteilung der Bauernbetriebe im der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-prozent.png "Grafik vom Bundesamt für Statistik veröffentlich am 14.05.2024")
+
+Für viele Landwirte im Raum Bern und auch der gesamten Schweiz wird es immer schwieriger, nur durch den Bauernbetrieb genug zu verdienen. Die Gründe sind vielfältig: zunehmende Arbeit, zu hohe Qualitätserwartungen, schlechter Boden durch den Klimawandel, die zunehmende Automatisierung der Landwirtschaft und wirtschaftlicher Druck. Die HAFL dient Küng und Bohny als finanzielle Absicherung im Falle eines schlechten Erntejahres. Küng erwähnte dazu, dass, falls er Vollzeit an der HAFL arbeiten würde, würde er viel mehr verdienen.
 
 Jede Bauernfamilie steht eines Tages vor der Frage, wie sie den Betrieb an die nächste Generation übergeben soll. Da die Baby-Boomer-Generation in den Ruhestand geht, müssen sich viele Bauernfamilien in der Schweiz Gedanken über diese Übergabe machen. Laut einer Studie von Agroscope aus dem Jahr 2020 sind mehr als 50 % der Landwirte 50 Jahre alt oder älter, und laut einer Studie des Bundesamtes für Statistik im Jahr 2019 sind sogar mehr als 40 % 55 Jahre alt oder älter. Die Übertragung von Betrieben ist ein komplexer und anspruchsvoller Prozess, der sich über mehrere Jahre erstrecken kann. Küng erklärt, dass er sich zwischen 2015 und 2017 dazu entschlossen hat, den Hof seiner Eltern zu übernehmen, der ihm aber erst seit Januar 2021 offiziell gehört.
 
