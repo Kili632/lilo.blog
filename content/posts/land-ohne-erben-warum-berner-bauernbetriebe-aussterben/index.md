@@ -4,7 +4,7 @@ date = "2024-06-16"
 draft = false
 pinned = true
 tags = ["Bauernbetrieb", "Reportage"]
-image = "bauernhof_bohny.jpg"
+image = "thumbnail.jpg"
 description = "Eine Reportage über das Aussterben der Bauernbetriebe in der Schweiz, inklusive zwei Interviews mit Landwirtschaftlichen Personen."
 footnotes = "Quelle Foto Bauernbetrieb Bohny: Andrea Bohny selbst\n\nQuelle Grafik eins: Bundesamt für Statistik\n\nQuelle Grafik zwei: Bundesamt für Statistik"
 +++
@@ -19,6 +19,8 @@ Täglich schliessen drei Bauernbetriebe in der Schweiz - Reportage über zwei La
 Es ist ein kühler Morgen im Berner Oberland, als die ersten Sonnenstrahlen die nebelverhangenen Wiesen von Därstetten erhellen. Tobias Küng, ein erfahrener Landwirt und wissenschaftlicher Mitarbeiter an der Berner Fachhochschule (BFH), beginnt seinen Tag auf seinem traditionellen Familienbetrieb. Küng hat vor allem Kühe, aber auch Schweine, und betreibt Ackerbau, die das Rückgrat seines Betriebs bilden. Im Sommer grasen seine Rinder auf einer weitläufigen Alp, die sich majestätisch über die Hügel von Därstetten bis hinten zum Stockhorn erstreckt.
 
 Die Anzahl der Bauernbetriebe nimmt in der Schweiz ab, insbesondere kleine bis mittelgrosse Betriebe. Andrea Bohny und Tobias Küng haben beide im Jahr 2021 jeweils einen Bauernbetrieb übernommen. An der Berner Fachhochschule HAFL, Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften, wo sie beide tätig sind, haben wir separate Interviews mit ihnen geführt, um ihre Perspektiven als Landwirte zu erfahren.
+
+![Hauptgebäude der Berner Fachhochschule HAFL](bfh.jpg "Ort der zwei Interviews")
 
 Eine kurze Fahrt durch die malerische Hügellandschaft führt nach Uetendorf, wo Andrea Bohny, Assistentin für nachhaltige Landwirtschaft an der BFH, ihren Bio-Betrieb leitet. Bohny, die ihren Hof durch eine ausserfamiliäre Übergabe übernommen hat, widmet sich ausschliesslich dem Ackerbau. Ihr Engagement für nachhaltige Landwirtschaft spiegelt sich in jeder einzelnen der jungen Pflanzen wider, die sie mit Sorgfalt und Hingabe pflegt. Auch Bohny steht vor den Herausforderungen, die das moderne Bauerndasein mit sich bringt.
 
