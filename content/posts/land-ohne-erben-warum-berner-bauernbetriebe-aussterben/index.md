@@ -6,7 +6,7 @@ pinned = true
 tags = ["Bauernbetrieb", "Reportage"]
 image = "bauernhof_bohny.jpg"
 description = "Eine Reportage über das Aussterben der Bauernbetriebe in der Schweiz, inklusive zwei Interviews mit Landwirtschaftlichen Personen."
-footnotes = "Quelle Foto Bauernhof Bohny: Andrea Bohny selbst\n\nQuelle Grafik: Bundesamt für Statistik"
+footnotes = "Quelle Foto Bauernbetrieb Bohny: Andrea Bohny selbst\n\nQuelle Grafik: Bundesamt für Statistik"
 +++
 <!--StartFragment-->
 
