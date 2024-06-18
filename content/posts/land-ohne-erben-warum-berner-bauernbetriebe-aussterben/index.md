@@ -12,7 +12,7 @@ footnotes = "Quelle Grafik eins: Bundesamt für Statistik\n\nQuelle Grafik zwei:
 
 {{<lead>}}
 
-Täglich schliessen drei Bauernbetriebe in der Schweiz - Reportage über zwei Landwirtinnen
+Täglich schliessen drei Bauernbetriebe in der Schweiz - Reportage über einen Landwirt und eine Landwirtin
 
 {{</lead>}}
 
@@ -79,8 +79,6 @@ Pflichtteil auszahlen; diese Auszahlung kann über längere Zeit gestreckt werde
 meisten Bauern wird empfohlen, eine frühzeitige und sorgfältige Nachfolgeplanung mit
 Hilfe von Beratern zu erstellen, um Konflikte und finanzielle Probleme zu vermeiden.
 ```
-
-
 
 Bohny hingegen sagt, dass es wichtig ist, nicht naiv zu sein, und dass es nicht so einfach ist, einen Hof zu übernehmen. Sie erwähnt, dass sie Glück hatte, bereits gute Grundkenntnisse für das Büro und die Buchhaltung zu haben, aber dass die administrative Arbeit keinesfalls unterschätzt werden darf. 
 
