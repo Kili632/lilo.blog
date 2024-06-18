@@ -66,6 +66,8 @@ Kreditgenossenschaft (LKG) unterstützen die Landwirte finanziell und bieten
 massgeschneiderte Finanzlösungen an.
 ```
 
+
+
 Aufgrund des Bundesgesetzes über das bäuerliche Bodenrecht ist es jedoch einfacher für Personen, deren Eltern bereits einen Betrieb besitzen, diesen zu übernehmen, im Vergleich zu Menschen ohne eine solche Möglichkeit. Daher erfolgen trotz zunehmender ausserfamiliärer Übergaben deutlich mehr Übernahmen innerhalb der Familie. Nachdem diese Punkte geklärt sind, stellt sich die Frage, ob der Hof finanziell leistbar ist. Es ist wichtig, mit den Banken zu sprechen, um zu prüfen, ob und wie die Finanzierung des Hofs möglich ist, einschliesslich der Klärung eventueller bestehender Schulden auf dem Hof. Sobald dies geklärt ist, muss ein Preis vereinbart werden. Küng betont auch, dass im Falle von Geschwistern zuerst mit diesen gesprochen werden sollte, um ihre Pläne zu erfahren. Falls sie kein Interesse an der Hofübernahme haben, sollten sie über den Kaufpreis informiert werden, um ein faires Verfahren sicherzustellen. Danach müssen alle zuständigen Behörden darüber informiert werden, wer der neue Verantwortliche für den Hof ist.
 
 ### Das Bundesgesetz über das bäuerliche Bodenrecht (BGBB)
@@ -79,6 +81,8 @@ Pflichtteil auszahlen; diese Auszahlung kann über längere Zeit gestreckt werde
 meisten Bauern wird empfohlen, eine frühzeitige und sorgfältige Nachfolgeplanung mit
 Hilfe von Beratern zu erstellen, um Konflikte und finanzielle Probleme zu vermeiden.
 ```
+
+
 
 Bohny hingegen sagt, dass es wichtig ist, nicht naiv zu sein, und dass es nicht so einfach ist, einen Hof zu übernehmen. Sie erwähnt, dass sie Glück hatte, bereits gute Grundkenntnisse für das Büro und die Buchhaltung zu haben, aber dass die administrative Arbeit keinesfalls unterschätzt werden darf. 
 
