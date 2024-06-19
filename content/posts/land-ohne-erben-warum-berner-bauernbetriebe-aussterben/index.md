@@ -95,7 +95,7 @@ Als Grund nannte sie den Preisdruck, der vor allem bei konventionellen Bauernhö
 
 ### Zukunft
 
-Bohny möchte in der nahen Zukunft keine Änderungen vornehmen und weiterhin ihre Zeit gleichmässig auf die HAFL und ihren Betrieb aufteilen. Doch sobald ihr Vater nicht mehr in der Lage ist, sich um seinen Betrieb zu kümmern, wird sie diesen übernehmen und ihre Zeit neu einteilen müssen. Küng hingegen wird voll und ganz auf die Landwirtschaft setzen, indem er sich mit seinem Nachbarsbetrieb zusammensetzt und somit einen riesigen Betrieb kreirt.
+Bohny plant in naher Zukunft keine Änderungen und möchte ihre Zeit weiterhin gleichmässig zwischen der HAFL und ihrem Betrieb aufteilen. Sobald ihr Vater jedoch nicht mehr in der Lage ist, sich um seinen Hof zu kümmern, wird sie diesen übernehmen und ihre Zeit neu organisieren müssen. Küng hingegen wird sich vollständig der Landwirtschaft widmen, indem er sich mit dem Nachbarsbetrieb zusammenschliesst und so einen grossen Betrieb schafft.
 
 ### Ein warmer Mittag im Berner Oberland:
 
