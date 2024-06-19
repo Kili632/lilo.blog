@@ -95,7 +95,7 @@ Als Grund nannte sie den Preisdruck, der vor allem bei konventionellen Bauernhö
 
 ### Zukunft
 
-Bohny möchte in der nahen Zukunft keine Änderungen vornehmen möchte und weiterhin ihre Zeit gleichmässig für die HAFL und ihren Betrieb verwenden möchte. Küng hingegen möchte voll und ganz auf die Landwirtschaft setzen, indem er seine Arbeitsstunden an der HAFL verkürzt
+Bohny möchte in der nahen Zukunft keine Änderungen vornehmen möchte und weiterhin ihre Zeit gleichmässig für die HAFL und ihren Betrieb verwenden möchte. Küng hingegen möchte voll und ganz auf die Landwirtschaft setzen, indem er seine Arbeitsstunden an der HAFL verkürzt,
 
 ### Ein warmer Mittag im Berner Oberland:
 
