@@ -101,4 +101,8 @@ Als Grund nannte sie den Preisdruck, der vor allem bei konventionellen Bauernhö
 
 Die Sonne hat die Wiesen vollständig erwärmt. Andrea Bohny und Tobias Küng setzen ihre Arbeit fort, entschlossen, ihre Betriebe zu erhalten und die Herausforderungen des modernen Bauerndaseins zu meistern.
 
+
+
+*Geschrieben von Eilidh Janssens und Kilian Frei*
+
 <!--EndFragment-->
