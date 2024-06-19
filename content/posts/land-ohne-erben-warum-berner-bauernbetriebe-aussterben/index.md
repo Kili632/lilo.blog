@@ -66,6 +66,22 @@ Kreditgenossenschaft (LKG) unterstützen die Landwirte finanziell und bieten
 massgeschneiderte Finanzlösungen an.
 ```
 
+{{<box>}}
+
+Einen Betrieb zu verkaufen oder abzukaufen, ist äusserst kompliziert. Oftmals kennen
+sich die Verkäufer und Käufer schon vorher, von Familien, Freunden oder sonstigen
+Bekannten. Ausser mit Inseraten in Bauernzeitungen auf den Betrieb aufmerksam zu 
+machen, was nicht grosse Wirkung hat, gibt es sonst fast keine Mittel dafür. Deshalb
+gibt es spezialisierte Vermittlungsstellen wie den Schweizer Bauernverband (SBV),
+welcher Beratungsdienste, Informationsveranstaltungen und Workshops zur Hofübergabe
+zur Verfügung stellt. Andere Stellen wie Agrarland Schweiz oder die Landwirtschaftliche
+Kreditgenossenschaft (LKG) unterstützen die Landwirte finanziell und bieten
+massgeschneiderte Finanzlösungen an.
+
+{{</box>}}
+
+
+
 Aufgrund des Bundesgesetzes über das bäuerliche Bodenrecht ist es jedoch einfacher für Personen, deren Eltern bereits einen Betrieb besitzen, diesen zu übernehmen, im Vergleich zu Menschen ohne eine solche Möglichkeit. Daher erfolgen trotz zunehmender ausserfamiliärer Übergaben deutlich mehr Übernahmen innerhalb der Familie. Nachdem diese Punkte geklärt sind, stellt sich die Frage, ob der Hof finanziell leistbar ist. Es ist wichtig, mit den Banken zu sprechen, um zu prüfen, ob und wie die Finanzierung des Hofs möglich ist, einschliesslich der Klärung eventueller bestehender Schulden auf dem Hof. Sobald dies geklärt ist, muss ein Preis vereinbart werden. Küng betont auch, dass im Falle von Geschwistern zuerst mit diesen gesprochen werden sollte, um ihre Pläne zu erfahren. Falls sie kein Interesse an der Hofübernahme haben, sollten sie über den Kaufpreis informiert werden, um ein faires Verfahren sicherzustellen. Danach müssen alle zuständigen Behörden darüber informiert werden, wer der neue Verantwortliche für den Hof ist.
 
 ### Das Bundesgesetz über das bäuerliche Bodenrecht (BGBB)
