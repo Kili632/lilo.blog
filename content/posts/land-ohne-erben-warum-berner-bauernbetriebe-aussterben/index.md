@@ -93,10 +93,6 @@ In der Schweiz findet die Übertragung von Betrieben in der Regel innerhalb der 
 
 Als Grund nannte sie den Preisdruck, der vor allem bei konventionellen Bauernhöfen enorm sei, und dass die jungen Leute in einer anderen Branche arbeiten und mehr verdienen könnten. Auf die Frage, ob sie sozialen Druck fühle, den Hof ihres Vaters zu übernehmen, antwortete Bohny, dass sie keinen spürt. Ihr Vater hat ihr immer die Wahl gelassen und ihr versichert, dass es andere gebe, die den Hof übernehmen könnten, falls sie dies nicht tun würde. Sie ist der Meinung, dass die Kommunikation mit ihrem Vater in dieser Hinsicht einfach ist. Heute ziehen es viele junge Menschen vor, den Hof ihrer Eltern nicht zu übernehmen, weil sie an einem anderen Ort bessere Möglichkeiten mit einem höheren Einkommen finden. Dies ist problematisch und führt zur Schliessung von Betrieben. Als Küng die Grafiken des Verschwindens der Bauernbetriebe vom Bundesamt für Statistik sah, erklärte er, dass es die mittleren Betriebe sind, die schliessen, weil sie nicht rentabel genug sind. Seiner Meinung nach handelt es sich bei den kleinen Betrieben oft um "Freizeit"-Betriebe, bei denen die Betreiber nicht auf das landwirtschaftliche Einkommen angewiesen sind. Er fügte hinzu, dass, während die Zahl der mittleren Betriebe sinkt, die Zahl der grossen Betriebe steigt, was das Ergebnis von Fusionen ist, wie die, die er mit seinen Nachbarn in einem Jahr vorhat.
 
-### Zukunftspläne
-
-
-
 ### Ein warmer Mittag im Berner Oberland:
 
 Die Sonne hat die Wiesen vollständig erwärmt. Andrea Bohny und Tobias Küng setzen ihre Arbeit fort, entschlossen, ihre Betriebe zu erhalten und die Herausforderungen des modernen Bauerndaseins zu meistern.
