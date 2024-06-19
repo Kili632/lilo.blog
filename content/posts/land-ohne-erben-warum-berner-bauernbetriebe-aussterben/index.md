@@ -93,4 +93,4 @@ Die Sonne hat die Wiesen vollständig erwärmt. Andrea Bohny und Tobias Küng se
 
 *Geschrieben von Eilidh Janssens und Kilian Frei*
 
-<!--EndFragment-->[](https://www.bfs.admin.ch/bfs/de/home/statistiken/land-forstwirtschaft/landwirtschaft/strukturen.assetdetail.31927947.html)
+<!--EndFragment-->
