@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Bauernbetrieb", "Reportage", "Landwirtschaft", "Deutsch"]
 image = "thumbnail.jpg"
-description = "Eine Reportage über das Aussterben der Bauernbetriebe in der Schweiz, inklusive zwei Interviews mit Landwirtschaftlichen Personen."
+description = "Eine Reportage über das Aussterben der Bauernbetriebe in der Schweiz, inklusive zwei Interviews mit einem Landwirt und einer Landwirtin."
 footnotes = "Quelle Bilder Blogübersicht und BFH: Kilian Frei, 17.6.2024\n\nQuelle Bild Bauernbetrieb Bohny: Andrea Bohny, 28.5.2024\n\nQuelle Grafik Landwirtschaftsbetriebe: https://www.bfs.admin.ch/bfs/de/home/statistiken/land-forstwirtschaft/landwirtschaft/strukturen.assetdetail.31927955.html besucht am 16.6.2024\n\nQuelle Grafik Landwirtschaftsbetriebe nach Grössenklassen: https://www.bfs.admin.ch/bfs/de/home/statistiken/land-forstwirtschaft/landwirtschaft/strukturen.assetdetail.31927947.html besucht am 16.6.2024\n\nVielen Dank an die interviewten Personen: Andrea Bohny und Tobias Küng"
 +++
 <!--StartFragment-->
