@@ -12,7 +12,7 @@ footnotes = "Quelle Bilder Blogübersicht und BFH: Kilian Frei, 17.6.2024\n\nQue
 
 {{<lead>}}
 
-Täglich schliessen drei Bauernbetriebe in der Schweiz - Reportage über einen Landwirt und eine Landwirtin
+Täglich schliessen drei Bauernbetriebe in der Schweiz – Reportage über einen Landwirt und eine Landwirtin
 
 {{</lead>}}
 
@@ -20,7 +20,7 @@ Täglich schliessen drei Bauernbetriebe in der Schweiz - Reportage über einen L
 
 Es ist ein kühler Morgen im Berner Oberland, als die ersten Sonnenstrahlen die nebelverhangenen Wiesen von Därstetten erhellen. Tobias Küng, ein erfahrener Landwirt und wissenschaftlicher Mitarbeiter an der Berner Fachhochschule (BFH), beginnt seinen Tag auf seinem traditionellen Familienbetrieb. Küng hat vor allem Kühe, aber auch Schweine, und betreibt Ackerbau, die das Rückgrat seines Betriebs bilden. Im Sommer grasen seine Rinder auf einer weitläufigen Alp, die sich majestätisch über die Hügel von Därstetten bis hinten zum Stockhorn erstreckt.
 
-Die Anzahl der Bauernbetriebe nimmt in der Schweiz ab, insbesondere kleine bis mittelgrosse Betriebe. Andrea Bohny und Tobias Küng haben beide im Jahr 2021 jeweils einen Bauernbetrieb übernommen. An der Berner Fachhochschule HAFL, Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften, wo sie beide tätig sind, haben wir separate Interviews mit ihnen geführt, um ihre Perspektiven als Landwirte zu erfahren.
+Die Anzahl der Bauernbetriebe nimmt in der Schweiz ab, insbesondere kleine bis mittelgrosse Betriebe verschwinden. Andrea Bohny und Tobias Küng haben beide im Jahr 2021 jeweils einen Bauernbetrieb übernommen. An der Berner Fachhochschule HAFL, Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften, wo sie beide tätig sind, wurden separate Interviews mit ihnen geführt, um ihre Perspektiven als Landwirte zu erfahren.
 
 ![Hauptgebäude der Berner Fachhochschule HAFL in Zollikofen](bfh.jpg "Ort der zwei Interviews")
 
