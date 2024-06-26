@@ -28,7 +28,7 @@ Die Anzahl der Bauernbetriebe nimmt in der Schweiz ab, insbesondere kleine bis m
 
 Eine kurze Fahrt durch die malerische Hügellandschaft führt nach Uetendorf, wo Andrea Bohny, Assistentin für nachhaltige Landwirtschaft an der BFH, ihren Bio-Betrieb leitet. Bohny, die ihren Hof durch eine ausserfamiliäre Übergabe übernommen hat, widmet sich ausschliesslich dem Ackerbau. Ihr Engagement für nachhaltige Landwirtschaft spiegelt sich in jeder einzelnen der jungen Pflanzen wider, die sie mit Sorgfalt und Hingabe pflegt. Auch Bohny steht vor den Herausforderungen, die das moderne Bauerndasein mit sich bringt.
 
-![Andrea Bohnys Bauernbetrieb in Uetendorf](bauernhof_bohny.jpg "Andrea Bohnys Bauernbetrieb")
+![Andrea Bohnys Bauernhaus in Uetendorf](bauernhof_bohny.jpg "Andrea Bohnys Bauernbetrieb")
 
 Küng, der gerade seine 22 Rinder auf die Alp bringt, begutachtet die wunderbare Aussicht auf das Simmental. Auf der Alp angekommen, sind seine Geschäftspartner und Nachbarsbetriebe schon mit ihren Kühen angekommen. Diese rund 50 Tiere geniessen den ganzen Sommer lang eine riesige 90 Hektaren Wiese. Die Kühe dienen Küng zur Milchherstellung, und umso wenig Abfall wie möglich zu produzieren, verwendet er die Nebenprodukte als Futter für seine Schweine. Neben seinen Tieren hat Küng auch noch eine Nutzfläche von circa 30 Hektaren, auf der er Gemüse und Früchte aller Art pflanzt. Heute ist Küng vor allem als Leiter des Ganzen tätig, „mindestens einen halben Tag pro Woche arbeite ich im Büro“, erläuterte er. Arbeiter, die ihm helfen, hat er sieben. Seine zwei Eltern, einen Lehrling, einen 30%-Angestellten und drei Personen, die Vollzeit auf der Alp werken. 50 % arbeitet er an der HAFL, und zu seiner restlichen Zeit meinte er, als wir ihn an der HAFL interviewten: „Es ist eigentlich ganz einfach, wenn ich nicht an der HAFL bin, dann bin ich auf dem Hof“. Ende Juli dieses Jahres reduziert er seine Arbeit an der HAFL jedoch auf 20 %, um sich mehr um seinen Hof zu kümmern.
 
@@ -38,11 +38,11 @@ Nach ihrem ersten Master in Agrarwissenschaften an der ETH studiert Andrea Bohny
 
 Laut einer Studie des Bundesamtes für Statistik sind in den letzten zwanzig Jahren über ein Drittel der Bauernbetriebe verschwunden.
 
-![Rückgang der Bauernbetriebe im der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-insgesamt.png "Grafik vom Bundesamt für Statistik veröffentlicht am 14.05.2024")
+![Rückgang der Bauernbetriebe in der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-insgesamt.png "Grafik vom Bundesamt für Statistik veröffentlicht am 14.05.2024")
 
 Hauptsächlich schliessen Betriebe in der Grösse von einer bis rund 20 Hektaren landwirtschaftlicher Nutzfläche, während es von Betrieben über 30 Hektaren sogar mehr gibt. Einige Betriebe fusionieren zusammen, andere werden von den grösseren aufgekauft, und leider schliessen auch einige komplett.
 
-![Die Verteilung der Bauernbetriebe im der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-prozent.png "Grafik vom Bundesamt für Statistik veröffentlich am 14.05.2024")
+![Die Verteilung der Bauernbetriebe in der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-prozent.png "Grafik vom Bundesamt für Statistik veröffentlich am 14.05.2024")
 
 Für viele Landwirte im Raum Bern und auch der gesamten Schweiz wird es immer schwieriger, nur durch den Bauernbetrieb genug zu verdienen. Die Gründe sind vielfältig: zunehmende Arbeit, zu hohe Qualitätserwartungen, schlechter Boden durch den Klimawandel und wirtschaftlicher Druck. Die HAFL dient Küng und Bohny als finanzielle Absicherung im Falle eines schlechten Erntejahres. Küng erwähnte dazu, dass, falls er Vollzeit an der HAFL arbeiten würde, würde er viel mehr verdienen. 
 
