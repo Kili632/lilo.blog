@@ -16,25 +16,21 @@ Täglich schliessen drei Bauernbetriebe in der Schweiz – Reportage über einen
 
 {{</lead>}}
 
-### Tobias Küng
-
 Es ist ein kühler Morgen im Berner Oberland, als die ersten Sonnenstrahlen die nebelverhangenen Wiesen von Därstetten erhellen. Tobias Küng, ein erfahrener Landwirt und wissenschaftlicher Mitarbeiter an der Berner Fachhochschule (BFH), beginnt seinen Tag auf seinem traditionellen Familienbetrieb. Küng hat vor allem Kühe, aber auch Schweine, und betreibt Ackerbau, die das Rückgrat seines Betriebs bilden. Im Sommer grasen seine Rinder auf einer weitläufigen Alp, die sich majestätisch über die Hügel von Därstetten bis hinten zum Stockhorn erstreckt.
 
 Die Anzahl der Bauernbetriebe nimmt in der Schweiz ab, insbesondere kleine bis mittelgrosse Betriebe verschwinden. Andrea Bohny und Tobias Küng haben beide im Jahr 2021 jeweils einen Bauernbetrieb übernommen. An der Berner Fachhochschule HAFL, Hochschule für Agrar-, Forst- und Lebensmittelwissenschaften, wo sie beide tätig sind, wurden separate Interviews mit ihnen geführt, um ihre Perspektiven als Landwirte zu erfahren.
 
 ![Hauptgebäude der Berner Fachhochschule HAFL in Zollikofen](bfh.jpg "Ort der zwei Interviews")
 
-### Andrea Bohny
-
 Eine kurze Fahrt durch die malerische Hügellandschaft führt nach Uetendorf, wo Andrea Bohny, Assistentin für nachhaltige Landwirtschaft an der BFH, ihren Bio-Betrieb leitet. Bohny, die ihren Hof durch eine ausserfamiliäre Übergabe übernommen hat, widmet sich ausschliesslich dem Ackerbau. Ihr Engagement für nachhaltige Landwirtschaft spiegelt sich in jeder einzelnen der jungen Pflanzen wider, die sie mit Sorgfalt und Hingabe pflegt. Auch Bohny steht vor den Herausforderungen, die das moderne Bauerndasein mit sich bringt.
 
-![Andrea Bohnys Bauernhaus in Uetendorf](bauernhof_bohny.jpg "Andrea Bohnys Bauernbetrieb")
+![Andrea Bohnys Bauernhaus in Uetendorf](bauernhof_bohny.jpg "Andrea Bohnys Bauernhaus")
 
-Küng, der gerade seine 22 Rinder auf die Alp bringt, begutachtet die wunderbare Aussicht auf das Simmental. Auf der Alp angekommen, sind seine Geschäftspartner und Nachbarbetriebe schon mit ihren Kühen angekommen. Diese rund 50 Tiere geniessen den ganzen Sommer lang eine riesige 90-Hektaren-Wiese. Die Kühe dienen Küng zur Milchherstellung, und umso wenig Abfall wie möglich zu produzieren, verwendet er die Nebenprodukte als Futter für seine Schweine. Neben seinen Tieren hat Küng auch noch eine Nutzfläche von circa 30 Hektaren, auf der er Gemüse und Früchte aller Art pflanzt. Heute ist Küng vor allem als Leiter des Ganzen tätig, „mindestens einen halben Tag pro Woche arbeite ich im Büro“, erläutert er. Arbeiter, die ihm helfen, hat er sieben: Seine Eltern, einen Lehrling, einen 30%-Angestellten und drei Personen, die Vollzeit auf der Alp arbeiten. 50 % arbeitet er an der HAFL, und zu seiner restlichen Zeit meint er, als wir ihn an der HAFL interviewten: „Es ist eigentlich ganz einfach, wenn ich nicht an der HAFL bin, dann bin ich auf dem Hof“. Ende Juli dieses Jahres reduziert er seine Arbeit an der HAFL jedoch auf 20 %, um sich mehr um seinen Hof zu kümmern.
+Küng, der gerade seine 22 Rinder auf die Alp bringt, begutachtet die wunderbare Aussicht auf das Simmental. Auf der Alp sind seine Geschäftspartner und Nachbarbetriebe schon mit ihren Kühen angekommen. Diese rund 50 Tiere geniessen den ganzen Sommer lang eine riesige 90-Hektaren-Wiese. Die Kühe dienen Küng zur Milchherstellung und um so wenig Abfall wie möglich zu produzieren, verwendet er die Nebenprodukte als Futter für seine Schweine. Neben seinen Tieren hat Küng auch noch eine Nutzfläche von circa 30 Hektaren, auf der er Gemüse und Früchte aller Art pflanzt. Heute ist Küng vor allem als Leiter des Ganzen tätig, „mindestens einen halben Tag pro Woche arbeite ich im Büro“, erläutert er. Arbeiter, die ihm helfen, hat er sieben: Seine Eltern, einen Lehrling, einen 30%-Angestellten und drei Personen, die Vollzeit auf der Alp arbeiten. 50 % arbeitet er an der HAFL, und zu seiner restlichen Zeit meint er: „Es ist eigentlich ganz einfach, wenn ich nicht an der HAFL bin, dann bin ich auf dem Hof“. Ende Juli dieses Jahres reduziert er seine Arbeit an der HAFL jedoch auf 20 %, um sich mehr um seinen Hof zu kümmern.
 
 Nach ihrem ersten Master in Agrarwissenschaften an der ETH studiert Andrea Bohny jetzt für den Master Kreislaufinnovation und Nachhaltigkeit (CIS) an der HAFL. Neben dem Master und dem Betrieb arbeitet sie auch noch 60 % an der HAFL als Assistentin für nachhaltige Landwirtschaft. Als wir sie fragen, wie sie diese drei Sachen alle unter einen Hut bringt, meint sie nur: „Ich habe flexible Stunden an der HAFL“ und „auf dem Hof tätig zu sein, ist auch ein Ausgleich für mich“. 16 km von ihrem Bio-Betrieb entfernt befindet sich der Betrieb ihres Vaters, mit dem sie sich ebenfalls befasst. Die beiden Betriebe dürfen offiziell jedoch nicht als Betriebsgemeinschaft bezeichnet werden, da sie die gesetzliche Voraussetzung, dass die Betriebe innerhalb einer maximalen Distanz von 15 km voneinander liegen müssen, nicht erfüllen. Ihr Vater ist jedoch noch nicht bereit, seinen Bauernbetrieb aufzugeben, deshalb musste sie einen anderen Weg finden, um an ihren zu gelangen. Doch glücklicherweise benötigten die Nachbarn der Eltern noch eine passende Nachfolgerin für ihren Bauernbetrieb, und somit erhielt Bohny im Jahr 2021 ihren eigenen Bauernbetrieb.
 
-### Problem
+### Rückgang der Bauernbetriebe
 
 Laut einer Studie des Bundesamtes für Statistik sind in den letzten zwanzig Jahren über ein Drittel der Bauernbetriebe verschwunden.
 
