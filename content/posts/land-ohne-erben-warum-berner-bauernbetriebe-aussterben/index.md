@@ -40,9 +40,9 @@ Laut einer Studie des Bundesamtes für Statistik sind in den letzten zwanzig Jah
 
 ![Rückgang der Bauernbetriebe in der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-insgesamt.png "Grafik vom Bundesamt für Statistik veröffentlicht am 14.05.2024")
 
-Hauptsächlich schliessen Betriebe in der Grösse von einer bis rund 20 Hektaren landwirtschaftlicher Nutzfläche, während es von Betrieben über 30 Hektaren sogar mehr gibt. Einige Betriebe fusionieren zusammen, andere werden von den grösseren aufgekauft, und leider schliessen auch einige komplett.
+Hauptsächlich schliessen Betriebe in der Grösse von einer bis rund 20 Hektaren landwirtschaftlicher Nutzfläche, während es von Betrieben über 30 Hektaren sogar mehr gibt. Einige Betriebe fusionieren, andere werden von den grösseren aufgekauft, und einige schliessen auch komplett.
 
-![Die Verteilung der Bauernbetriebe in der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-prozent.png "Grafik vom Bundesamt für Statistik veröffentlich am 14.05.2024")
+![Die Verteilung der Bauernbetriebe nach der Grösse in der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-prozent.png "Grafik vom Bundesamt für Statistik veröffentlich am 14.05.2024")
 
 Für viele Landwirte im Raum Bern und auch der gesamten Schweiz wird es immer schwieriger, nur durch den Bauernbetrieb genug zu verdienen. Die Gründe sind vielfältig: zunehmende Arbeit, zu hohe Qualitätserwartungen, schlechter Boden durch den Klimawandel und wirtschaftlicher Druck. Die HAFL dient Küng und Bohny als finanzielle Absicherung im Falle eines schlechten Erntejahres. Küng erwähnte dazu, dass, falls er Vollzeit an der HAFL arbeiten würde, würde er viel mehr verdienen. 
 
