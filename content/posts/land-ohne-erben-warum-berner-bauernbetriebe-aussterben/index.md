@@ -40,7 +40,7 @@ Hauptsächlich schliessen Betriebe in der Grösse von einer bis rund 20 Hektaren
 
 ![Die Verteilung der Bauernbetriebe nach der Grösse in der Schweiz von 1996 bis 2023](grafik-bauernbetrieb-prozent.png "Grafik vom Bundesamt für Statistik veröffentlich am 14.05.2024")
 
-Für viele Landwirte im Raum Bern und auch der gesamten Schweiz wird es immer schwieriger, nur durch den Bauernbetrieb genug zu verdienen. Die Gründe sind vielfältig: zunehmende Arbeit, zu hohe Qualitätserwartungen, schlechter Boden durch den Klimawandel und wirtschaftlicher Druck. Die HAFL dient Küng und Bohny als finanzielle Absicherung im Falle eines schlechten Erntejahres. Küng erwähnt dazu, dass, falls er Vollzeit an der HAFL arbeiten würde, würde er viel mehr verdienen. 
+Für viele Landwirte im Raum Bern und auch der gesamten Schweiz wird es immer schwieriger, nur durch den Bauernbetrieb genug zu verdienen. Die Gründe sind vielfältig: zunehmende Arbeit, zu hohe Qualitätserwartungen, schlechter Boden durch den Klimawandel und wirtschaftlicher Druck. Die HAFL dient Küng und Bohny als finanzielle Absicherung im Falle eines schlechten Erntejahres. Küng erwähnt dazu, dass, falls er Vollzeit an der HAFL arbeiten würde, er viel mehr verdienen würde.
 
 ### Betriebsübergabe
 
