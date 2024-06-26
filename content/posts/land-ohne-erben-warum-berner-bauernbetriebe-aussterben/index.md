@@ -42,7 +42,7 @@ Hauptsächlich schliessen Betriebe in der Grösse von einer bis rund 20 Hektaren
 
 Für viele Landwirte im Raum Bern und auch der gesamten Schweiz wird es immer schwieriger, nur durch den Bauernbetrieb genug zu verdienen. Die Gründe sind vielfältig: zunehmende Arbeit, zu hohe Qualitätserwartungen, schlechter Boden durch den Klimawandel und wirtschaftlicher Druck. Die HAFL dient Küng und Bohny als finanzielle Absicherung im Falle eines schlechten Erntejahres. Küng erwähnt dazu, dass, falls er Vollzeit an der HAFL arbeiten würde, er viel mehr verdienen würde.
 
-### Betriebsübergabe
+### Vorbereitung auf eine Betriebsübergabe
 
 Jede Bauernfamilie steht eines Tages vor der Frage, wie sie den Betrieb an die nächste Generation übergeben soll. Da die Baby-Boomer-Generation in den Ruhestand geht, müssen sich viele Bauernfamilien in der Schweiz Gedanken über diese Übergabe machen. Laut einer Studie von Agroscope aus dem Jahr 2020 sind mehr als 50 % der Landwirte 50 Jahre alt oder älter, und laut einer Studie des Bundesamtes für Statistik aus dem Jahr 2019 sind sogar mehr als 40 % 55 Jahre alt oder älter. Die Übertragung von Betrieben ist ein komplexer und anspruchsvoller Prozess, der sich über mehrere Jahre erstrecken kann. Küng erklärt, dass er sich zwischen 2015 und 2017 dazu entschlossen habe, den Hof seiner Eltern zu übernehmen, der ihm aber erst seit Januar 2021 offiziell gehört.
 
